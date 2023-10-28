@@ -1,0 +1,42 @@
+body{
+    background-color: azure;
+    }
+    .identity{
+    text-align: center;
+    }
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-height: 100%;
+        height: auto;
+    }
+    .box{
+        min-height: 330px;
+        max-height: auto;
+    }
+    .sosmed{
+    text-align: center;
+    }
+    fieldset{
+    margin: 50px;
+    }
+    .topnav {
+      overflow: hidden;
+      background-color: red;
+    }
+    
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .topnav a:hover {
+      background-color: grey;
+      color: black;
+    }
+    
